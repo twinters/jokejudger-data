@@ -1,5 +1,5 @@
 # JokeJudger-Data
-Anonymised data from the JokeJudger platform, containing jokes using the "I like my X like I like my Y, Z" template and ratings for these jokes.
+Anonymised data from the JokeJudger platform, containing 524 jokes using the "I like my X like I like my Y, Z" template and 9452 ratings (1 to 5 star ratings, "I don't get it" and "Too offensive" markings) for these jokes.
 
 ## Source
 
