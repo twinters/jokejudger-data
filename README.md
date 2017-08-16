@@ -27,5 +27,5 @@ Note that this database has less attributes for the `users` table than the datab
 ## Copyright
 
 Feel free to use this set of jokes to analyse properties of these jokes.
-If you're using this dataset in academic research, you can cite my master thesis using [this BibTex reference](https://github.com/TWinters/Goofer/blob/master/reference.bib).
+If you're using this dataset in academic research, you can cite my master's thesis using [this BibTex reference](https://github.com/TWinters/Goofer/blob/master/reference.bib).
 If you're using this dataset elsewhere, please reference this GitHub repository.
