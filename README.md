@@ -23,3 +23,9 @@ The analysis folder contains .csv files counting the frequency for of x and y wo
 In order to load the MySQL data, you need to set-up a MySQL database, e.g. using [Wamp](http://www.wampserver.com/en/).
 The SQL code can then be imported, e.g. using [MySQL Workbench](https://www.mysql.com/products/workbench/).
 Note that this database has less attributes for the `users` table than the database actually used in [JokeJudger](https://github.com/TWinters/JokeJudger), as all identifying information has been removed.
+
+## Copyright
+
+Feel free to use this set of jokes to analyse properties of these jokes.
+If you're using this dataset in academic research, you can cite my master thesis using (this BibTex reference)[https://github.com/TWinters/Goofer/blob/master/reference.bib].
+If you're using this dataset elsewhere, please reference this GitHub repository.
